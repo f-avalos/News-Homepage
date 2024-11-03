@@ -30,7 +30,7 @@ El desafio propuesto fue diseñar un página de inicio _responsive_ y accesible 
 
 ### Links
 
-- Sitio: [-](#)
+- Sitio: [Página de inicio de noticias](f-avalos.github.io/News-Homepage/)
 
 ## Proceso
 
